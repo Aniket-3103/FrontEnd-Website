@@ -38,3 +38,7 @@ Open the `index.html` file in your preferred web browser to start your interacti
 Feel free to reach out if you have any questions or suggestions:
 
 - Email: ronakmishra175@gmail.com
+
+![Screenshot (3)](https://github.com/Aniket-3103/Coding-Club-Website/assets/152020923/8c14c2fc-d871-4dd2-93f4-55112c7a4309)
+![Screenshot (8)](https://github.com/Aniket-3103/Coding-Club-Website/assets/152020923/6ed02bb0-da87-458b-b337-82acb3eebab8)
+
